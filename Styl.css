@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    background-color: white; /* Zielony */
+    padding: 20px;
+    text-align: center;
+}
+
+#main {
+    background-color: #2196F3; /* Niebieski */
+    padding: 20px;
+    text-align: center;
+}
+
+#footer {
+    background-color: #f44336; /* Czerwony */
+    padding: 20px;
+    text-align: center;
+}
+
+.box {
+    color: black; /* Kolor tekstu */
+    padding: 10px;
+    border-radius: 5px;
+}
